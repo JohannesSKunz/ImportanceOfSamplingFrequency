@@ -9,9 +9,9 @@
 
 This repository contains replication files for [Hoskins, Johnston, Kunz, Shields, and Staub (2024)](https://www.sciencedirect.com/science/article/pii/S0165176524003641). 
 
-The analysis is based on several restricted datasets. We can not make these available but are happy to direct interested readers and support any replication. Please do not hesitate to contact either [Johannes Kunz](mailto:johannes.kunz@monash.edu) or [Kevin Staub](mailto:kevin.staub@unimelb.edu.au) about any of these.
+The analysis is based on several restricted datasets. We can not make these available, but are happy to direct interested readers and support any replication. Please do not hesitate to contact either [Johannes Kunz](mailto:johannes.kunz@monash.edu) or [Kevin Staub](mailto:kevin.staub@unimelb.edu.au) about any of these.
 
-The data can be applied for at (SMU-ROSA)[https://rosa.smu.edu.sg/singapore-life-panel/about-singapore-life-panelr].
+The data can be applied for at [SMU-ROSA](https://rosa.smu.edu.sg/singapore-life-panel/about-singapore-life-panelr).
 
 One file e_dyn_manual replicates all the results in the paper. 
 
@@ -40,7 +40,7 @@ Stephen Hoskins (data curation)
 
 ## Reference: 
 
-Hoskins, S., Johnston, D. W., Kunz, J. S., Shields, M. A., & Staub, K. E. (2024). (The importance of sampling frequency for estimates of well-being dynamics)[https://www.sciencedirect.com/science/article/pii/S0165176524003641]. Economics Letters, 242, 111880.
+Hoskins, S., Johnston, D. W., Kunz, J. S., Shields, M. A., & Staub, K. E. (2024). [The importance of sampling frequency for estimates of well-being dynamics](https://www.sciencedirect.com/science/article/pii/S0165176524003641). Economics Letters, 242, 111880.
 
 
 
