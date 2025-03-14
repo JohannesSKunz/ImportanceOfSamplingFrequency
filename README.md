@@ -1,7 +1,7 @@
 # ImportanceOfSamplingFrequency: replication files.
 
 - Current version: `1.0.0 14mar2025`
-- Jump to: [`overview`](#overview) [`crosswalk`](#crosswalk) [`source files`](#source-files) [`update history`](#update-history) [`authors`](#authors) [`references`](#references)
+- Jump to: [`overview`](#overview) [`update history`](#update-history) [`authors`](#authors) [`references`](#references)
 
 -----------
 
